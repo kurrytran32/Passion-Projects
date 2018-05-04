@@ -1,0 +1,15 @@
+.sexyTitle {
+    text-align: center;
+    background-color:black;
+    color:  #ff4d4d;
+    padding: 5px;
+    margin: 0px;
+    font-size: 20px;
+    border-radius: 12px;
+}
+.textFormat {
+    text-align: center;
+    float: center;
+    background-color: #cce6ff;
+    color: black;
+}
