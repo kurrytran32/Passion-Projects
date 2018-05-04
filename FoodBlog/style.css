@@ -1,9 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+footer {
+    height: 50px;
+    background-color: slategray;
+    width: 100%;
+    margin: 0;
+    color: white;
+    text-align: center;
+    padding-top: 8px;
+    font-size: .8em;
+    position: relative;
+}
+
 .sexyTitle {
     text-align: center;
     background-color:black;
     color:  #ff4d4d;
     padding: 5px;
-    margin: 0px;
+    margin: 10px 0;
     font-size: 20px;
     border-radius: 12px;
 }
@@ -12,4 +35,9 @@
     float: center;
     background-color: #cce6ff;
     color: black;
+    padding: 10px;
+}
+
+.placeholder {
+    height: 100%;
 }
